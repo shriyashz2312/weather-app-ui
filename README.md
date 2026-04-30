@@ -25,9 +25,9 @@
 
 ---
 
-## 📸 Preview
+## 📸 Weather Apps
 
-![App Preview](assets/preview.png)
+![Preview](assets/preview.png)
 
 ---
 
@@ -61,4 +61,4 @@ app/
 
 ## 📌 Author
 
-Your Name
+Shriyash Zoman
